@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Despec Product Mega Menu feature.
+ */
+
+include_once 'despec_product_mega_menu.features.inc';
